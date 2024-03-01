@@ -1,5 +1,9 @@
-import Image from "next/image";
+import Footer from "@/components/Footer";
 
 export default function Home() {
-  return <></>;
+  return (
+    <>
+      <div className="min-h-dvh">tes</div>
+    </>
+  );
 }
